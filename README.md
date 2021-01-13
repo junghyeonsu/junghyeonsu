@@ -1,1 +1,1 @@
-### 👍 [저를 소개합니다. Introduce-Myself](https://junghyeonsu.github.io/introduce-myself/)
+### 👍 [저를 소개합니다](https://junghyeonsu.github.io/introduce-myself/)
