@@ -1,11 +1,16 @@
 <div align=center>
-
+  
   <!-- https://github.com/kyechan99/capsule-render -->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=21bcff&height=200&section=header&text=Hyeonsu%20Jung&fontSize=70&fontColor=0c2e3d)
 
   <h3>👍 Introduce</h3>
   
+  ###### 💡 1. Made in 2021/2 (using `github-pages`)
   #### [저를 소개합니다](https://junghyeonsu.github.io/introduce-myself/)
+    
+  ###### 💡 2. Made in 2021/6 (using `Next.Js`)
+  #### [정현수(WIP)]()
+  
   <!-- #### 🔥Now working at [HayanMind](https://hayanmind.com/) -->
   <br />
   <!-- https://simpleicons.org/ 아이콘 -->
@@ -25,7 +30,7 @@
   <br />
   
   <h3>👱 Blog</h3>
-  <a href="https://velog.io/@junghyeonsu" target="_blank">
+  <a href="https://velog.io/@junghyeonsu">
     <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@junghyeonsu"/>
   </a>
   <a href="https://junghyeonsu.tistory.com/">
