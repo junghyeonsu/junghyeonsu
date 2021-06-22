@@ -25,7 +25,7 @@
   <br />
   
   <h3>👱 Blog</h3>
-  <a href="https://velog.io/@junghyeonsu">
+  <a href="https://velog.io/@junghyeonsu" target="_blank">
     <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@junghyeonsu"/>
   </a>
   <a href="https://junghyeonsu.tistory.com/">
