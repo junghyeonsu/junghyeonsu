@@ -9,7 +9,7 @@
   #### [저를 소개합니다](https://junghyeonsu.github.io/introduce-myself/)
     
   ###### 💡 2. Made in 2021/6 (using `Next.Js`)
-  #### [정현수(WIP)]()
+  #### [정현수(WIP)](https://hyeonsu-jung.vercel.app/)
   
   <!-- #### 🔥Now working at [HayanMind](https://hayanmind.com/) -->
   <br />
