@@ -27,12 +27,17 @@
   <br />
   
   <h3>👱 Blog</h3>
-  <a href="https://velog.io/@junghyeonsu">
-    <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@junghyeonsu"/>
-  </a>
+  Main
   <a href="https://junghyeonsu.tistory.com/">
     <img src="https://img.shields.io/badge/TiStory-gray?style=flat-square&logo=TV%20Time&logoColor=white&link=https://junghyeonsu.tistory.com/"/>
   </a>
+  <br />
+  Sub
+  <a href="https://velog.io/@junghyeonsu">
+    <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@junghyeonsu"/>
+  </a>
+ 
+
     
   <br />
   <br />
