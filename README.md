@@ -4,16 +4,12 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=21bcff&height=200&section=header&text=Hyeonsu%20Jung&fontSize=70&fontColor=0c2e3d)
 
   ### 👍  [Introduce](https://hyeonsu-jung.vercel.app/)  </h3>
-  Made in 2021/6 (using `Next.Js`)
-  
-  ###### [(Legacy)](https://junghyeonsu.github.io/introduce-myself/) Made in 2021/2 (using `github-pages`)
-  
-  <!-- #### 🔥Now working at [HayanMind](https://hayanmind.com/) -->
+
   <br />
+  
   <!-- https://simpleicons.org/ 아이콘 -->
   <!-- https://shields.io/ 라벨 -->
   <h3>⚒️ Tech Stack</h3>
-  <p> Stacks used as main </p>
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -36,17 +32,16 @@
     <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@junghyeonsu"/>
   </a>
   
-  <br />
+   <a href="https://www.youtube.com/user/kmh660317/videos">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/kmh660317/videos"/>
+  </a>
 
- 
-
-    
   <br />
   <br />
     
   <h3>📞 Contact </h3>
   <a href="mailto:jung660317@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=jung660317@naver.com"/>
-  
+
   <br />
   <br />
   <br />
