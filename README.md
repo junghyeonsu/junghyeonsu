@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@junghyeonsu"/>
   </a>
   
-   <a href="https://www.youtube.com/user/kmh660317/videos">
+   <a href="https://www.youtube.com/channel/UCkC6sYPPSvpnRprmp2GcXZw">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/kmh660317/videos"/>
   </a>
 
