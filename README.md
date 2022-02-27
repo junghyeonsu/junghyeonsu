@@ -1,7 +1,7 @@
 <div align=center>
   
   <!-- https://github.com/kyechan99/capsule-render -->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=21bcff&height=200&section=header&text=Hyeonsu%20Jung&fontSize=70&fontColor=0c2e3d)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=21bcff&height=200&section=header&text=Jung%20Hyeonsu&fontSize=70&fontColor=0c2e3d)
 
   ### 👍  [Introduce](https://hyeonsu-jung.vercel.app/)  </h3>
 
