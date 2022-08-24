@@ -3,8 +3,8 @@
   <!-- https://github.com/kyechan99/capsule-render -->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=907EAC&height=200&section=header&text=Jung%20Hyeonsu&fontSize=70&fontColor=0c2e3d)
 
-  ### [포트폴리오 | Portfolio](https://hyeonsu-jung.vercel.app/)  </h3>
-  ### [개인 블로그 | My Tech Blog](https://junghyeonsu-dev.vercel.app/)  </h3>
+  ### [Portfolio](https://hyeonsu-jung.vercel.app/)  </h3>
+  ### [Tech Blog](https://junghyeonsu-dev.vercel.app/)  </h3>
 
   <br />
   
