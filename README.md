@@ -3,7 +3,7 @@
   <!-- https://github.com/kyechan99/capsule-render -->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=907EAC&height=200&section=header&text=Jung%20Hyeonsu&fontSize=70&fontColor=0c2e3d)
 
-  ### [About Me](https://hyeonsu-jung.vercel.app/) | [Tech Blog](https://junghyeonsu-dev.vercel.app/)  </h3>
+  ### [About Me](https://hyeonsu-jung.vercel.app/) | [Tech Blog](https://junghyeonsu.com/)  </h3>
 
   <br />
   
