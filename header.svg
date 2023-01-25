@@ -5,20 +5,12 @@
       transform-box: fill-box;
     }
 
-    .animate-ping {
-      animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
-    }
-
     .animate-fade-in {
       animation: fade-in 0.64s cubic-bezier(0, 0, 0.2, 1) forwards;
     }
 
     .animate-fade-in-bottom {
       animation: fade-in-bottom 0.64s cubic-bezier(0, 0, 0.2, 1) forwards;
-    }
-
-    .animate-fade-in-right {
-      animation: fade-in-right 0.64s cubic-bezier(0, 0, 0.2, 1) forwards;
     }
 
     .title {
@@ -29,24 +21,6 @@
     .description {
       opacity: 0;
       animation-delay: 0.7s;
-    }
-
-    .additional {
-      opacity: 0;
-      animation-delay: 1s;
-    }
-
-    .additional__indicator {
-      opacity: 0;
-      animation-delay: 1.6s;
-    }
-
-    @keyframes ping {
-      75%,
-      100% {
-        transform: scale(2);
-        opacity: 0;
-      }
     }
 
     @keyframes fade-in {
@@ -62,17 +36,6 @@
       from {
         opacity: 0;
         transform: translate3d(0, -20px, 0);
-      }
-      to {
-        opacity: 1;
-        transform: translate3d(0, 0, 0);
-      }
-    }
-
-    @keyframes fade-in-right {
-      from {
-        opacity: 0;
-        transform: translate3d(-20px, 0, 0);
       }
       to {
         opacity: 1;
