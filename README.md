@@ -1,11 +1,11 @@
-<img width="40%" align="right" alt="Github Header" src="header.svg" />
-
 <div align=center>
+
+  <img width="100%" alt="Github Header" src="header.svg" />
   
   <!-- https://github.com/kyechan99/capsule-render -->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=907EAC&height=200&section=header&text=Jung%20Hyeonsu&fontSize=70&fontColor=0c2e3d)
+  <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=907EAC&height=200&section=header&text=Jung%20Hyeonsu&fontSize=70&fontColor=0c2e3d) -->
 
-### [About Me](https://hyeonsu-jung.vercel.app/) | [Tech Blog](https://junghyeonsu.com/) </h3>
+<!-- ### [About Me](https://hyeonsu-jung.vercel.app/) | [Tech Blog](https://junghyeonsu.com/) </h3> -->
 
   <br />
   
