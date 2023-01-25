@@ -1,17 +1,23 @@
 <div align=center>
-  
-  <!-- https://github.com/kyechan99/capsule-render -->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=907EAC&height=200&section=header&text=Jung%20Hyeonsu&fontSize=70&fontColor=0c2e3d)
 
-  ### [About Me](https://hyeonsu-jung.vercel.app/) | [Tech Blog](https://junghyeonsu.com/)  </h3>
+  <img width="100%" alt="Header" src="header.svg" />
 
   <br />
+  <br />
+  <br />
   
-  <!-- https://simpleicons.org/ 아이콘 -->
-  <!-- https://shields.io/ 라벨 -->
-    
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunghyeonsu&count_bg=%23907EAC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <a href="https://junghyeonsu.com" target="_blank">
+    <img width="100%" alt="Blog" src="blog.svg" />
+  </a>
+
+  <a href="https://hyeonsu-jung.vercel.app/" target="_blank">
+    <img width="100%" alt="Portfolio" src="portfolio.svg" />
+  </a>
   
+  <br />
+  <br />
+  <br />
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunghyeonsu&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hello&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
-
-
