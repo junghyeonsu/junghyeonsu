@@ -1,6 +1,14 @@
 <div align=center>
 
-  <img width="100%" alt="Github Header" src="header.svg" />
+  <img width="100%" alt="Header" src="header.svg" />
+  
+  <a href="https://junghyeonsu.com" target="_blank">
+    <img width="100%" alt="Blog" src="blog.svg" />
+  </a>
+
+  <a href="https://hyeonsu-jung.vercel.app/" target="_blank">
+    <img width="100%" alt="Portfolio" src="portfolio.svg" />
+  </a>
   
   <br />
   
