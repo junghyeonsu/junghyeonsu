@@ -1,4 +1,4 @@
-<div align=center>
+<div align=center height="360px">
 
   <img width="100%" alt="Header" src="header.svg" />
 
